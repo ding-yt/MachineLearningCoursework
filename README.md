@@ -1,4 +1,4 @@
-# Machine Learning Toy sets
+# Machine Learning Toy Model Sets
 
 Coursework for Duke Machine Learning Summer School 2018
 
